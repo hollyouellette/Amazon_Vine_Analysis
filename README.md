@@ -10,6 +10,7 @@ In my analysis specifically, I analyzed the data for Pet Products. First, using 
 
 _How many Vine reviews and non-Vine reviews were there?_
 
+<img align="left" src="https://github.com/hollyouellette/Amazon_Vine_Analysis/blob/main/analysis/total_reviews.png" width=400>
  In total, there were 35,768. A significant portion of these were non-Vine reviews – a total of 35,606. The remaining 162 reviews were Vine reviews.
 
 _How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?_
