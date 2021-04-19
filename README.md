@@ -4,7 +4,7 @@
 
 The purpose of this analysis was to analyze the relationship between review outcomes for a particular product category and whether the review was written by a member of the paid Amazon Prime program. 
 
-In my analysis specifically, I analyzed the data for Pet Products. First, using PySpark, I performed the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance and load the transformed data into pdAdmin. Next I used PySpark to determine if there is any bias toward favorable reviews from vine members in the Pet Products Dataset. 
+In my analysis specifically, I analyzed the data for Pet Products. First, using PySpark, I performed the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance and load the transformed data into pdAdmin. Next, I used PySpark to determine if there is any bias toward favorable reviews from vine members in the Pet Products Dataset. 
 
 ## Results
 
